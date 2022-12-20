@@ -5,3 +5,4 @@ my notes for learning python!
 2. [get started](contents/intro.md)
 3. [variables](contents/variables.md)
 4. [data types](contents/data-types.md)
+- [python numbers](contents/python-numbers.md)
