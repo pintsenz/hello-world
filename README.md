@@ -1,8 +1,9 @@
 # python learning 
 my notes for learning python!
 #table of contents 
-1. some basics before we get started 
-    [how to push to git](contents/some-basics.md)
+1. some basics before we get started  
+
+[how to push to git](contents/some-basics.md)
 
 ### when you are done with py command line
 exit()
