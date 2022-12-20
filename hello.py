@@ -8,3 +8,10 @@ print(x)
 
 # comments like this will be ignored in code 
 
+x = 5
+y = "john"
+print(type(x))
+print(type(y))
+
+a = 4
+A = "sally"
