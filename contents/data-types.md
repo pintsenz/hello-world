@@ -6,11 +6,11 @@
 - set types : set , frozenset
 - boolean type : bool
 - binary type : bytes , bytearray , memoryview
-- none type : NoneType
-**get data type**
+- none type : NoneType  
+## **get data type**
 x = 5   
 print(type(x))
-**set data type**
+## **set data type**
 x=type(xx)  
 create a new string, desc, with value of "compound interest"    
 - desc=str("compound interest")
