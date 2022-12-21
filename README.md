@@ -7,6 +7,6 @@ my notes for learning python!
 4. [data types](contents/data-types.md)
     - [python numbers](contents/python-numbers.md)
     - [python casting](contents/python-casting.md)
-5. [strings](contents\python-strings.md)
+5. [python strings](contents\python-strings.md)
     - [slicing strings](contents\slicing-strings.md)    
     - [modify strings](contents\modify-strings.md)
